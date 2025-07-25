@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gonçalo Sousa.
-- 🌱 I’m currently learning Machine Learning and Data Science.
+- 🌱 I’m a Data Analyst @ SABSEG
 - 📫 How to reach me: goncalooliveirasousa@gmail.com
 
 <!---
